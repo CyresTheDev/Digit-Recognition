@@ -1,5 +1,5 @@
 # Digit-Recognition
-See how we can predict what the number of image is with deep learning.
+See how we can predict what is the number that image represents with deep learning.
 
 in first step, we are going to learn pattenrs with ***artifitial neural networks(ANN)*** and see how this powerful algorithms can help us
 reach ideal results and predictions.
