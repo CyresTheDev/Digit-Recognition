@@ -12,3 +12,4 @@ reach ideal results and predictions.
 * tensorflow website - ***https://www.tensorflow.org/*** 
  
  ***this repository is not completed yet, other deep learning methods and algorithms will be added.***
+ you can find source codes on my kaggle profile: ***https://www.kaggle.com/cyruskouhyar***
