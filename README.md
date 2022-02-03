@@ -9,6 +9,7 @@ reach ideal results and predictions.
 * what is deep learning? ***https://machinelearningmastery.com/what-is-deep-learning/***
 * what is ANN? ***https://en.wikipedia.org/wiki/Artificial_neural_network***
 * cnn-explainer : best website to learn about cnn - ***https://poloclub.github.io/cnn-explainer/***
+* transfer learning: ***https://en.wikipedia.org/wiki/Transfer_learning***
 * tensorflow website - ***https://www.tensorflow.org/*** 
  
  ***this repository is not completed yet, other deep learning methods and algorithms will be added.***
