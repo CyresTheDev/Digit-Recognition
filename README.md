@@ -6,7 +6,7 @@ reach ideal results and predictions.
 
 
 ### additional resources for reading:
-* what is deep learning? ***https://machinelearningmastery.com/what-is-deep-learning/***
+* what is deep learning? ***ht***
 * what is ANN? ***https://en.wikipedia.org/wiki/Artificial_neural_network***
 * cnn-explainer : best website to learn about cnn - ***https://poloclub.github.io/cnn-explainer/***
 * transfer learning: ***https://en.wikipedia.org/wiki/Transfer_learning***
